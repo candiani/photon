@@ -1,4 +1,4 @@
-# photon
+# photon candiani
 
 [![Continuous Integration](https://github.com/komoot/photon/workflows/Continuous%20Integration/badge.svg)](https://github.com/komoot/photon/actions)
 
